@@ -35,7 +35,7 @@ About
 
 
 <div>
-  <a target="_blank" href="https://github.com/emrhnayyz">Github</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/emrhnayyz">Github</a>
 </div>
 
 <MenuLink to="/">
